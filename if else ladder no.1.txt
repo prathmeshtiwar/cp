@@ -11,7 +11,7 @@ int main()
 {printf("sum is greater than 20 \n");
 }
 else if (sum > 10)
-{printf("sum is greater than 10lessthan20 \n");
+{printf("sum is greater 10less20\n");
 }
 else
 {printf("sum of less than 10 \n");
