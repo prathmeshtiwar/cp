@@ -4,24 +4,24 @@
 int main()
 {
  int x,y;
- printf("Enter the number between 0 to 39\n");
+ printf("Enter the number between 0 to 39");
  scanf("%d",&y);
  if(y/10==0)
 {
- printf("you have entered the number 0-9\n");
+ printf("you have entered the number0-9");
 }
 else if(y/10==1)
-{ printf("you have entered the number 10-19\n");
+{ printf("you have entered the number10-19");
 }
 else if(y/10==2)
-{ printf("you have entered the number 20-29\n");
+{ printf("you have entered the number20-29");
 } 
 else if(y/10==3)
-{ printf("you have entered the number 30-39\n");
+{ printf("you have entered the number 30-39");
 }
 else 
 { 
- printf(" the number not in range\n");
+ printf(" the number not in range");
 }
 return 0;
 }
