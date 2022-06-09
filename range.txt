@@ -8,16 +8,16 @@ int main()
  scanf("%d",&y);
  if(y/10==0)
 {
- printf("you have entered the number range of 0-9\n");
+ printf("you have entered the number 0-9\n");
 }
 else if(y/10==1)
-{ printf("you have entered the number range of 10-19\n");
+{ printf("you have entered the number 10-19\n");
 }
 else if(y/10==2)
-{ printf("you have entered the number range of 20-29\n");
+{ printf("you have entered the number 20-29\n");
 } 
 else if(y/10==3)
-{ printf("you have entered the number range of 30-39\n");
+{ printf("you have entered the number 30-39\n");
 }
 else 
 { 
