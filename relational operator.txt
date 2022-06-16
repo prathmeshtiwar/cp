@@ -12,6 +12,6 @@ printf(" b is greatest\n");
 else
 printf(" c is greatest\n");
 if((a==0)||(b==0)||(c==0))
-printf(" the product values of a,b and c is zero\n");
+printf(" the product values of a,b,czero");
 return 0;
 }
